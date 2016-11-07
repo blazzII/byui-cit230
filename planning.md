@@ -1,10 +1,15 @@
-# CIT 230 Web Frontend Development
+# CIT 230 - Web Frontend Development - BYU-Idaho
 ## Front-end Web Design and Development
-An open discussion about the curriculum development and pedagogy of CIT 230 - Online. 
+An open discussion about the curriculum development and pedagogy of CIT 230 - __Online__. A course covering the contemporary application of core web technologies in web design and development.
+### Prerequisite 
+* CIT 160 - Introduction to Programming (using JavaScript)
 ### Objectives
-
-
-
+1. HTML
+2. CSS
+3. UX
+4.
+5.
+6. 
 
 ### Subjects to Consider
 
@@ -34,9 +39,9 @@ HTML; CSS; JavaScript; Colloboration through Git; jQuery; JSON; GRUNT/GULP;
 ### Outside Resources
 | Resource | Location | Description | Info/Voting |
 |---|---|---|---|
-| ___Sitepoint___ | [SitePoint](https://sitepoint.com) | Sitepoint is a comprehensive resource site. The text. | Current; A |
-| w3schools | [Site](https://w3schools.com) | Basic tutorial site with working examples | B |
-| Smashing Magazine
+| __[Sitepoint](https://www.sitepoint.com/premium/paths/build-a-website)__ | *'Sitepoint Premium + HTML/CSS Standard | SitePoint is a hub for web developers to share their passion for building incredible Internet things.*'  | A: Textbook - Required |
+| [w3schools](https://w3schools.com) | Tutorials: HTML, CSS, Bootstrap | Basic tutorial site with working examples | Alternative Readings: B |
+| Smashing Magazine | | | |
 | StackOverflow | | | |
 
 ### Tools
