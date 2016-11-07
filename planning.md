@@ -1,8 +1,10 @@
 # CIT 230 Web Frontend Development
 ## Front-end Web Design and Development
-An open dicussiona bout the curriculum and pedagogy of the ONLINE CIT 230 course covering core web technologies, i.e., Front-end Web Design and Development. 
+An open discussion about the curriculum development and pedagogy of CIT 230 - Online. 
+### Objectives
 
-[Link]
+
+
 
 ### Subjects to Consider
 
@@ -12,7 +14,7 @@ An open dicussiona bout the curriculum and pedagogy of the ONLINE CIT 230 course
 | CSS |  | A |  |
 | JavaScript | Adoption | No | [Go!](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) |
 
-### Course Objectives
+
 
 
 ### Topics to Consider
@@ -32,6 +34,13 @@ HTML; CSS; JavaScript; Colloboration through Git; jQuery; JSON; GRUNT/GULP;
 ### Outside Resources
 | Resource | Location | Description | Info/Voting |
 |---|---|---|---|
-| Sitepoint | [SitePoint](https://sitepoint.com) | Sitepoint is a comprehensive resource site. The text. | Current; A |
+| ___Sitepoint___ | [SitePoint](https://sitepoint.com) | Sitepoint is a comprehensive resource site. The text. | Current; A |
 | w3schools | [Site](https://w3schools.com) | Basic tutorial site with working examples | B |
+| Smashing Magazine
+| StackOverflow | | | |
+
+### Tools
+| Resource | Location | Description | Info/Voting |
+|---|---|---|---|
+| Chrome Web Dev Tool | | |
 | codepen.io | | Instructor based examples | C |
