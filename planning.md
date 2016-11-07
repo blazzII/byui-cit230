@@ -5,7 +5,7 @@ An open dicussiona bout the curriculum and pedagogy of the ONLINE CIT 230 course
 ### Subjects to Consider
 
 | Topic | Description | Relevance Voting | Contact |
-|___|---|---|---|
+|---|---|---|---|
 | IUCN | IUCN Red List of Threatened Species | No, but a token is required | [Go!](http://apiv3.iucnredlist.org/api/v3/docs) |
 | Petfinder | Adoption | No | [Go!](https://www.petfinder.com/developers/api-docs/) |
 | RescueGroups | Adoption | No | [Go!](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) |
