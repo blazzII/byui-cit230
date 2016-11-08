@@ -43,7 +43,7 @@ An open discussion about the curriculum development and pedagogy of CIT 230 - __
 ### Outside Resources
 | Resource | Location | Description | Info/Voting |
 |---|---|---|---|
-| __[Sitepoint](https://www.sitepoint.com/premium/paths/build-a-website)__ | *'Sitepoint Premium + HTML/CSS Standard | SitePoint is a hub for web developers to share their passion for building incredible Internet things.'*  | A: Textbook - Required |
+| __[Sitepoint](https://www.sitepoint.com/premium/paths/build-a-website)__ | *'Sitepoint Premium'* + HTML/CSS Standard | SitePoint is a hub for web developers to share their passion for building incredible Internet things.'*  | A: Textbook - Required |
 | [w3schools](https://w3schools.com) | Tutorials: HTML, CSS, Bootstrap | Basic tutorial site with working examples | Alternative Readings: B |
 | Smashing Magazine | | | |
 | StackOverflow | | | |
