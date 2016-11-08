@@ -1,7 +1,8 @@
 # CIT 230 - Web Frontend Development - BYU-Idaho
 An open discussion about the curriculum development and pedagogy of CIT 230 - __Online__. A course covering the contemporary application of core web technologies in web design and development.
 ### Prerequisite 
-* CIT 160 - Introduction to Programming (using JavaScript) or equivalent
+*CIT 160 - Introduction to Programming (using JavaScript) or equivalent
+
 ### Objectives
 1. HTML: Contemporary fluency in the application of HyperText Markup Language for structure
 2. CSS: Contemporary fluency in the application of Cascading Style Sheets markup for style
@@ -10,7 +11,7 @@ An open discussion about the curriculum development and pedagogy of CIT 230 - __
 5. Industry practice – Develop best practice design and development methodologies in the application of core web technologies and business layer practices
 6. Team and professionalism
 
-### Topics to Consider
+### Topic Brainstorm
 | Topic | Description | Relevance Voting | Contact |
 |---|---|---|---|
 | HTML |  | A |  |
@@ -22,7 +23,7 @@ An open discussion about the curriculum development and pedagogy of CIT 230 - __
 | jQuery ||||
 
 
-### Schedule
+### Proposed Rough Schedule
 
 | Lesson/Week | Description | Assignment | Assessments |
 |---|---|---|---|
@@ -40,7 +41,8 @@ An open discussion about the curriculum development and pedagogy of CIT 230 - __
 | Lesson 12 |  |  |   |
 | Lesson 13 |  |  |   |
 | Lesson 14 |  |  |   |
-### Outside Resources
+
+### Required and Optional Resources to Promote/Use
 | Resource | Location | Description | Info/Voting |
 |---|---|---|---|
 | __[Sitepoint](https://www.sitepoint.com/premium/paths/build-a-website)__ | *'Sitepoint Premium'* + HTML/CSS Standard | SitePoint is a hub for web developers to share their passion for building incredible Internet things.'*  | A: Textbook - Required |
@@ -51,8 +53,10 @@ An open discussion about the curriculum development and pedagogy of CIT 230 - __
 | Tuts+ | | | |
 | Reddit | | | |
 
-### Tools
+### Tools (outside of iLearn and Adobe connect)
 | Resource | Location | Description | Info/Voting |
 |---|---|---|---|
 | Chrome Web Dev Tool | | |
 | codepen.io | | Instructor based examples | C |
+| Video ||||
+|
