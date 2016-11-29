@@ -16,10 +16,10 @@ An open discussion about the curriculum development and pedagogy of the online v
 |---|---|---|---|
 | HTML |  | A |  |
 | CSS |  | A |  |
-| JavaScript |  |  |  |
-| Collaboration | | | |
+| JavaScript |  | A- |  |
+| Collaboration/Version Control | git | | |
 | JSON ||||
-| Deployment Practices GRUNT/GULP or related ||||
+| Task Runner / Deployment |Grunt/Gulp|||
 | jQuery ||||
 
 
