@@ -1,15 +1,15 @@
 # CIT 230 - Web Frontend Development - BYU-Idaho
-An open discussion about the curriculum development and pedagogy of CIT 230 - __Online__. A course covering the contemporary application of core web technologies in web design and development.
-### Prerequisites 
+An open discussion about the curriculum development and pedagogy of the online version of CIT 230, a course covering the contemporary application of core web design and development technologies.
+### Prerequisites (proposed - in process)
 > CIT 160 - Introduction to Programming (using JavaScript) or equivalent
 
 ### Objectives
-1. HTML: Contemporary fluency in the application of HyperText Markup Language for structure
-2. CSS: Contemporary fluency in the application of Cascading Style Sheets markup for style
-3. JavaScript: Basic application level 
-4. User Experience (UX): Develop
-5. Industry practice – Develop best practice design and development methodologies in the application of core web technologies and business layer practices
-6. Team and professionalism
+1. __HTML__: Develop fluency in the application of contemporary HyperText Markup Language.
+2. __CSS__: Develop fluency in the application of contemporary Cascading Style Sheets markup.
+3. __JavaScript__: Apply basic JavaScript browser interactions and events and utilize popular libraries and frameworks.
+4. User Experience (__UX__): Develop visually appropriate, usable, and findable user interfaces and content.
+5. __Best Practice__: Plan, design, and develop ... best practice design and development methodologies in the application of core web technologies and business layer practices.
+6. __Professionalism__: Work effectiviely with others in a team environment using clear communication and
 
 ### Topic Brainstorm
 | Topic | Description | Relevance Voting | Contact |
