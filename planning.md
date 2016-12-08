@@ -9,9 +9,9 @@ An open discussion about the curriculum development and pedagogy of the online v
 3. __JavaScript__: Apply basic JavaScript browser interactions and events and utilize popular libraries and frameworks.
 4. User Experience (__UX__): Develop visually appropriate, usable, and findable user interfaces and content.
 5. __Best Practice__: Plan, design, and develop ... best practice design and development methodologies in the application of core web technologies and business layer practices.
-6. __Professionalism__: Work effectiviely with others in a team environment using clear communication and
--- Current Objective Wording
-Course Objectives
+6. __Professionalism__: Work effectiviely with others in a team environment using clear communication and ...
+
+#### Current Objective Wording - Course Objectives
 These objectives are based on web standards and best practices to help you be successful in the future.
 
 Develop web pages that are semantically accurate using the HTML5 markup language.
