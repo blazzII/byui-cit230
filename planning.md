@@ -10,6 +10,16 @@ An open discussion about the curriculum development and pedagogy of the online v
 4. User Experience (__UX__): Develop visually appropriate, usable, and findable user interfaces and content.
 5. __Best Practice__: Plan, design, and develop ... best practice design and development methodologies in the application of core web technologies and business layer practices.
 6. __Professionalism__: Work effectiviely with others in a team environment using clear communication and
+-- Current Objective Wording
+Course Objectives
+These objectives are based on web standards and best practices to help you be successful in the future.
+
+Develop web pages that are semantically accurate using the HTML5 markup language.
+Style web pages using Cascading Style Sheet (CSS) level 3 and avoid all HTML presentation markup.
+Provide content that is visually appropriate, usable, and find-able to humans and machines.
+Plan, design, and develop web pages and sites according to best practices of organization and maintainability.
+Work with JavaScript to handle events and interactions within the browser.
+Work effectively with others in a team environment by communicating clearly, fulfilling assignments, and meeting deadlines.
 
 ### Topic Brainstorm
 | Topic | Description | Relevance Voting | Contact |
