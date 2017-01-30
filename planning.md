@@ -41,7 +41,7 @@ These objectives are based on web standards and best practices to help you be su
 | 01 | Introduction and Environment Setup | Bracket Installation and copied HTML document; Codecademy Account;   | Introductions; Virtual Lab Attendance |
 | 02 | HTML Foundations / Term Website Project Discovery | Basic HTML page | HTML Quiz; Codecademny Start;  |
 | 03 | CSS Foundations / Term Website Project Plan/Design | Basic CSS external style of base structure | Basic CSS Quiz; |
-| 04 |  | Boilerplate; Normalization | Assigned Reading Concept Fluency Quiz; Codecademny Start;  |
+| 04 |  | Boilerplate; Normalization | Assigned Reading Concept Fluency Quiz; Codecademny end;  |
 | 05 |  |  |   |
 | 06 |  |  |   |
 | 07 |  |  |   |
