@@ -9,7 +9,7 @@ An open discussion about the curriculum development and pedagogy of the online v
 2. __CSS__: Develop fluency in the application of contemporary Cascading Style Sheets markup.
 3. __JavaScript__: Apply basic JavaScript browser interactions and events and utilize popular libraries and frameworks.
 4. User Experience (__UX__): Plan, design, and develop visually appropriate, usable, and findable user interfaces and content.
-5. __Professionalism__: Work effectiviely, communicate clearly, and foster postive team environment.
+5. __Professionalism__: Work effectively, communicate clearly, and foster positive team environment.
 
 #### Current Objective Wording - Course Objectives
 These objectives are based on web standards and best practices to help you be successful in the future.
